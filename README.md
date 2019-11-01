@@ -1,3 +1,4 @@
 # hello
 
-helloworld!
+print'hello world'
+
